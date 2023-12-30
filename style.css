@@ -14,8 +14,9 @@
 .hero{
     width: 100%;
     height: 100%;
-    background: rgb(0,124,0);
-background: radial-gradient(circle, rgba(0,124,0,1) 0%, rgba(0,0,0,1) 63%);
+    
+background: #010101;
+background: conic-gradient(from 225deg, #010101, #098506);
     /*background: url(moon.png);
     background-size: cover;
     background-position: center;*/
