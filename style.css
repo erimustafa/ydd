@@ -13,8 +13,7 @@
 }
 .hero{
     width: 100%;
-    height: 100%;
-    
+    height: 100%; 
 background: #010101;
 background: conic-gradient(from 225deg, #010101, #098506);
     /*background: url(moon.png);
@@ -334,6 +333,11 @@ button {
 button:hover {
   background-color: #3e8e41;
 } 
+#downloadlink{
+    position: relative;
+}
+
+
 @media screen and (max-width: 680px) {
     
 
@@ -368,11 +372,11 @@ span{
 .container .hero-text button{
     margin-left: -200px;
 }
-
-    
-
-
+#downloadlink{
+    margin-left: -200px;
 }
+
+
 
 
 
